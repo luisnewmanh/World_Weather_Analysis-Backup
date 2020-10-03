@@ -1,3 +1,6 @@
+# Adding API_key.py file.
+API_key
+config.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
